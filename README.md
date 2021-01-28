@@ -1,6 +1,8 @@
 # omr-git-basics
 
-A collection of resources to learn git
+onemoreorund is part of the [neue fische web-development bootcamp](https://www.neuefische.de/weiterbildung/web-development).
+
+## A collection of resources to learn git
 
 ![git-basics](./assets/git_basics.png)
 
@@ -10,14 +12,16 @@ A collection of resources to learn git
 
 A system for version control. A collection of snapshots of your project over time.
 
-# What this repository is for
+# Purpose of this repository
 
+This is a collection of information to supplement a live session in zoom.
 We would like to demistify `git` a little bit, so it is less magical, but more concrete for you what it actually does. We will talk about:
 
 - [Visualise](http://git-school.github.io/visualizing-git/) what a series of commits looks like
 - The difference between ["local" and "remote"](https://stackoverflow.com/a/16408515/15098171)
 - What happens if you ["checkout"](https://www.atlassian.com/git/tutorials/using-branches/git-checkout) a branch or commit `git checkout`
 - What is ["staging"](https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh) or the "stage"
+- What is [HEAD](https://www.git-tower.com/learn/git/glossary/head/)
 - What are merge conflicts and how to resolve them
 
 # Resources
