@@ -14,8 +14,11 @@ A system for version control. A collection of snapshots of your project over tim
 
 # Purpose of this repository
 
-This is a collection of information to supplement a live session in zoom.
-We would like to demistify `git` a little bit, so it is less magical, but more concrete for you what it actually does. We will talk about:
+This is a collection of information to supplement a live session in zoom. If you didn't attend the session you can read up on each subject by following the links.
+
+We would like to demistify `git` a little bit, so it is less magical, but more concrete for you what it actually does.
+
+## We will talk about:
 
 - [Visualise](http://git-school.github.io/visualizing-git/) what a series of commits looks like
 - The difference between ["local" and "remote"](https://stackoverflow.com/a/16408515/15098171)
@@ -26,13 +29,13 @@ We would like to demistify `git` a little bit, so it is less magical, but more c
 
 # Resources
 
-http://git-school.github.io/visualizing-git/
-https://stackoverflow.com/a/16408515/15098171
-https://www.atlassian.com/git/tutorials/using-branches/git-checkout
-https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh
+- http://git-school.github.io/visualizing-git/
+- https://stackoverflow.com/a/16408515/15098171
+- https://www.atlassian.com/git/tutorials/using-branches/git-checkout
+- https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh
 
-https://matthew-brett.github.io/curious-git/index.html
-https://learngitbranching.js.org/
-https://try.github.io/
-https://thoughtbot.com/blog/git-interactive-rebase-squash-amend-rewriting-history
-https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
+- https://matthew-brett.github.io/curious-git/index.html
+- https://learngitbranching.js.org/
+- https://try.github.io/
+- https://thoughtbot.com/blog/git-interactive-rebase-squash-amend-rewriting-history
+- https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
