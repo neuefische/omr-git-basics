@@ -27,6 +27,15 @@ We would like to demistify `git` a little bit, so it is less magical, but more c
 - What is [HEAD](https://www.git-tower.com/learn/git/glossary/head/)
 - What are merge conflicts and how to resolve them
 
+## Tasks
+
+You can use this repository as a template to create your own and play around with `git`. We have prepared some small tasks to get you started.
+
+### There are two branches to help illustrate some hurdles:
+
+- `feature1` has a merge conflict
+- `feature2` is to demonstrate how different changes can live on different branches
+
 # Resources
 
 - http://git-school.github.io/visualizing-git/
