@@ -31,6 +31,18 @@ We would like to demistify `git` a little bit, so it is less magical, but more c
 
 You can use this repository as a template to create your own and play around with `git`. We have prepared some small tasks to get you started.
 
+## How to resolve a merge conflict:
+
+- `git checkout main`
+- `git pull`
+- `git checkout <branch with conflict>`
+- `git merge main`
+- Solve merge conflicts
+- `git add .`
+- `git commit`
+- `git push`
+- hooray!
+
 ### There are two branches to help illustrate some hurdles:
 
 - `feature1` has a merge conflict
