@@ -52,6 +52,7 @@ You can use this repository as a template to create your own and play around wit
 - https://guides.github.com/introduction/git-handbook/
 - https://github.com/jlord/git-it-electron
 - https://ohshitgit.com/
+- https://www.youtube.com/watch?v=3m7BgIvC-uQ
 
 ## "checkout" or "switch"
 
