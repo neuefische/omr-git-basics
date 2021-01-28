@@ -51,3 +51,8 @@ You can use this repository as a template to create your own and play around wit
 - https://training.github.com/downloads/github-git-cheat-sheet/
 - https://guides.github.com/introduction/git-handbook/
 - https://github.com/jlord/git-it-electron
+
+## "checkout" or "switch"
+
+- https://stackoverflow.com/questions/57265785/whats-the-difference-between-git-switch-and-git-checkout-branch
+- https://bluecast.tech/blog/git-switch-branch/
