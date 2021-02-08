@@ -27,6 +27,27 @@ We would like to demistify `git` a little bit, so it is less magical, but more c
 - What is [HEAD](https://www.git-tower.com/learn/git/glossary/head/)
 - What are merge conflicts and how to resolve them
 
+## Tasks
+
+You can use this repository as a template to create your own and play around with `git`. We have prepared some small tasks to get you started.
+
+## How to resolve a merge conflict:
+
+- `git checkout main`
+- `git pull`
+- `git checkout <branch with conflict>`
+- `git merge main`
+- Solve merge conflicts
+- `git add .`
+- `git commit`
+- `git push`
+- hooray!
+
+### There are two branches to help illustrate some hurdles:
+
+- `feature1` has a merge conflict
+- `feature2` is to demonstrate how different changes can live on different branches
+
 # Resources
 
 - http://git-school.github.io/visualizing-git/
@@ -39,3 +60,6 @@ We would like to demistify `git` a little bit, so it is less magical, but more c
 - https://try.github.io/
 - https://thoughtbot.com/blog/git-interactive-rebase-squash-amend-rewriting-history
 - https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
+- https://training.github.com/downloads/github-git-cheat-sheet/
+- https://guides.github.com/introduction/git-handbook/
+- https://github.com/jlord/git-it-electron
